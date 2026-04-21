@@ -1,5 +1,14 @@
 # codes-for-tomorrow-assessment
 
+## to run server on developement use following command
+yarn run start:dev
+
+## to build the code user following command
+yarn run build
+
+## to run server on production user following command
+yarn run start
+
 ## to create dummy 5 users make a request on
 http://localhost:3000/api/user/
 
@@ -10,3 +19,6 @@ with header "userId" and the value of this userId should be the primary key of t
 database such as 1,2,3
 
 ex. userId - 1
+
+## NOTE:-
+I have added the .gitignore file but to get the credentials please check the .env.example file once.
