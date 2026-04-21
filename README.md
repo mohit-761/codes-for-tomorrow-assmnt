@@ -3,11 +3,14 @@
 ## to run server on developement use following command
 yarn run start:dev
 
-## to build the code user following command
+## to build the code use following command
 yarn run build
 
-## to run server on production user following command
+## to run server on production use following command
 yarn run start
+
+## to run the migration use follwoing command
+yarn run migration
 
 ## to create dummy 5 users make a request on
 http://localhost:3000/api/user/
