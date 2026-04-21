@@ -9,7 +9,7 @@ yarn run build
 ## to run server on production use following command
 yarn run start
 
-## to run the migration use follwoing command
+## to run the migration use following command
 yarn run migration
 
 ## to create dummy 5 users make a request on
